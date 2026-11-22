@@ -1,0 +1,21 @@
+farmer_id,synthetic_label,district,taluka,primary_crop,land_acres,crop_loss_pct,weather_anomaly_score,mandi_price_drop_pct,debt_pressure_index,emotional_distress_flag,notes
+FK-001,Farmer A (Synthetic),Nashik,Niphad,Onion,2.5,12,22,18,20,0,Normal kharif harvest; minor price dip in local auction
+FK-002,Farmer B (Synthetic),Pune,Baramati,Sugarcane,4.0,8,15,5,18,0,Assured irrigation via canal; steady crushing schedule
+FK-003,Farmer C (Synthetic),Kolhapur,Karvir,Soybean,3.0,15,25,10,25,0,Timely monsoon onset; input costs within budget
+FK-004,Farmer D (Synthetic),Satara,Khatav,Jowar,3.5,20,30,12,28,0,Moderate dry spell early season; recovered after light rain
+FK-005,Farmer E (Synthetic),Ahmednagar,Sangamner,Bajra,2.0,10,18,8,15,0,Low debt burden; diversified vegetable plot
+FK-006,Farmer F (Synthetic),Nagpur,Katol,Orange,5.0,18,28,14,22,0,Healthy orchard management; routine maintenance costs
+FK-007,Farmer G (Synthetic),Solapur,Pandharpur,Pomegranate,2.2,45,62,32,55,0,Delayed monsoon and rising borewell power costs
+FK-008,Farmer H (Synthetic),Beed,Majalgaon,Cotton,4.5,52,68,28,60,0,Pink bollworm attack and lower cotton modal prices
+FK-009,Farmer I (Synthetic),Jalgaon,Chalisgaon,Banana,3.0,40,55,38,50,0,Hot winds stress and sharp wholesale rate drop
+FK-010,Farmer J (Synthetic),Amravati,Achalpur,Tur (Pigeon Pea),3.5,48,58,25,52,0,Mid-season moisture deficit; informal input credit pending
+FK-011,Farmer K (Synthetic),Akola,Akot,Soybean,4.0,38,50,30,48,0,Excessive rainfall during pod filling reduced yield quality
+FK-012,Farmer L (Synthetic),Sangli,Jath,Maize,3.0,44,64,22,54,0,Rain-shadow taluka facing dry spell and higher seed costs
+FK-013,Farmer M (Synthetic),Buldhana,Khamgaon,Cotton,2.8,50,60,35,58,0,Delayed sowing followed by uneven rainfall and price drop
+FK-014,Farmer N (Synthetic),Washim,Risod,Gram (Chickpea),3.2,36,48,27,45,0,Moderate pest pressure; KCC renewal due next month
+FK-015,Farmer O (Synthetic),Dharashiv,Osmanabad,Soybean,5.0,82,88,46,85,1,Severe drought in taluka; crop nearly wiped out and high loan stress
+FK-016,Farmer P (Synthetic),Latur,Ausa,Tur (Pigeon Pea),3.0,78,84,42,80,1,Back-to-back poor yield; mandi rate far below cost of cultivation
+FK-017,Farmer Q (Synthetic),Yavatmal,Pusad,Cotton,4.0,85,90,48,88,1,Severe boll damage; multiple overdue credit cycles and high anxiety
+FK-018,Farmer R (Synthetic),Jalna,Partur,Cotton,2.5,75,82,40,78,0,Prolonged dry spell and steep market price fall
+FK-019,Farmer S (Synthetic),Beed,Kaij,Jowar,3.5,80,86,44,82,1,Acute fodder and water shortage; urgent relief guidance needed
+FK-020,Farmer T (Synthetic),Parbhani,Jintur,Soybean,3.0,72,79,39,76,0,Heavy yield loss and steep price drop straining household cash flow
